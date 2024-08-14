@@ -281,10 +281,10 @@ main {
     display: block;
 }
 .square10 h2, .square2 h2, .square12 h2 {
-    margin-left: 26px;
+    margin-left: 30px;
 }
 .square4 h2, .square14 h2, .square6 h2, .square16 h2, .square8 h2 {
-    margin-left: 35px;
+    margin-left: 38px;
 }
 .square9 h2, .square1 h2, .square11 h2, .square3 h2, .square13 h2, .square5 h2, .square15 h2, .square7 h2 {
     margin-left: 5px;
